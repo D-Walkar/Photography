@@ -18,12 +18,12 @@
       <a style="color:orange;font-size:20px" class="navbar-brand" href="#"><b>BK PHOTOGRAPHY<b></a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">People</a></li>
-        <li><a href="#">Animals</a></li>
-		<li><a href="#">Nature</a></li>
-		<li><a href="#">Candid</a></li>
+      <ul class="nav navbar-nav">  
+   	  <li  class="active"><a href="Home.php">Home</a></li>
+        <li><a href="people.php">People</a></li>
+		<li><a href="nature.php">Nature</a></li>
+		<li><a href="candid.php">Candid</a></li>
+		<li><a href="others.php">Others</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="Login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
